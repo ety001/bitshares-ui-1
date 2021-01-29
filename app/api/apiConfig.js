@@ -232,7 +232,7 @@ export const settingsAPIs = {
             country: "China",
             location: "Shandong",
             operator: "Witness: liuye",
-            contact: "email:work@domyself.me"
+            contact: "email:work@akawa.ink"
         },
         {
             url: "wss://api.dex.trading/",
@@ -313,7 +313,7 @@ export const settingsAPIs = {
             country: "U.S.A.",
             location: "Fremont, CA",
             operator: "Witness: gbac-ety001",
-            contact: "email:work@domyself.me"
+            contact: "email:work@akawa.ink"
         },
         {
             url: "wss://api.cnvote.vip:888/",
